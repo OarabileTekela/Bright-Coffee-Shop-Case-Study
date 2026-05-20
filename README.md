@@ -45,7 +45,7 @@ The analysis revealed several important insights:
 
 These findings provide a clear understanding of business performance and highlight opportunities for improvement.
 
-##Tools Used
+## Tools Used
 
 * **Miro** – Project planning and data architecture design
 * **Canva** – Gantt chart creation and presentation design
