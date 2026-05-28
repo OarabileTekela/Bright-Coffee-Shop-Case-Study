@@ -2,7 +2,7 @@
 
 Bright Coffee Shop aims to increase revenue and improve product performance but lacks clear visibility into its sales data. The business does not fully understand which products drive the most revenue, what times of day generate the highest sales, and which items underperform.
 Without these insights, decision-making around pricing, inventory, and marketing strategies becomes inefficient. This project addresses these challenges by analyzing transactional data to uncover actionable insights that can support business growth. 
-Link to my loveable presentation app https://brew-data-gems.lovable.app/
+
 
 ## Aim of the Project
 The aim of this project is to analyze Bright Coffee Shop’s sales data in order to identify key trends, product performance, and customer purchasing patterns. The goal is to transform raw data into meaningful insights that can assist the business in making data-driven decisions to improve overall performance.
@@ -34,6 +34,7 @@ The aim of this project is to analyze Bright Coffee Shop’s sales data in order
 
    * Compiled insights and findings into a structured presentation
    * Delivered recommendations based on data-driven insights
+   * Link to my loveable presentation app https://brew-data-gems.lovable.app/
 
 ## Summary of Results
 
